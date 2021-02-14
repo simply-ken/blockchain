@@ -1,3 +1,3 @@
 # blockchain
 
-Exploring blockchain technology.
+Exploring principles of blockchain technology.
